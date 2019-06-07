@@ -1,0 +1,12 @@
+/*=============================================================*/
+/*Button Start From Here  */
+/*=============================================================*/
+.btn-login {
+    color: #fff;
+    background: $color-orange;
+    border-color: darken($color-orange, 10%);
+    &:hover { background: lighten($color-orange, 6%); color: $color-white; }
+}
+/*=============================================================*/
+/*Button Ends Here  */
+/*=============================================================*/
